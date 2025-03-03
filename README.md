@@ -43,7 +43,7 @@ This project performs **sentiment analysis** on IMDB movie reviews to classify t
 | Model              | Precision | Recall | F1-score |  
 |--------------------|-----------|--------|-----------|  
 | **Logistic Regression** | 89% | 89% | 89% |  
-| **Random Forest**  85% | 85% | 85% |  
+| **Random Forest** | 85% | 85% | 85% |  
 | **Naïve Bayes** | 80% | 89% | 79% |  
 
 - **Logistic Regression performed best** due to its effectiveness with TF-IDF features.  
